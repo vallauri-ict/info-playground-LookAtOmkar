@@ -1,0 +1,4 @@
+C:\Users\Rathore\Es_di_trigger_30_01_2021\Es_di_trigger_30_01_2021\obj\Debug\Es_di_trigger_30_01_2021.csprojAssemblyReference.cache
+C:\Users\Rathore\Es_di_trigger_30_01_2021\Es_di_trigger_30_01_2021\obj\Debug\Es_di_trigger_30_01_2021.Form1.resources
+C:\Users\Rathore\Es_di_trigger_30_01_2021\Es_di_trigger_30_01_2021\obj\Debug\Es_di_trigger_30_01_2021.Properties.Resources.resources
+C:\Users\Rathore\Es_di_trigger_30_01_2021\Es_di_trigger_30_01_2021\obj\Debug\Es_di_trigger_30_01_2021.csproj.GenerateResource.cache
